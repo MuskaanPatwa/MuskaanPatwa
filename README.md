@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **patwamuskaan@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/muskaan-patwa-968866290 </h3>
 <p align="left">
 </p>
 
