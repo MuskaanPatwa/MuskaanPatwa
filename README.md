@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muskaan Patwa</h1>
 <h3 align="center">ECE Student | Python | AI & Machine Learning Enthusiast |Machine Learning • Computer Vision| Frontend Developer| Public Speaker and Trainer</h3>
 
-- 🔭 I’m currently working on **on**
+🚀 Currently working on Computer Vision and Machine Learning
+🤖 Currently building AI/ML and Computer Vision applications using Python
+💻 Currently working on Medical Data Management Systems (Mini Project)
+📊 Currently exploring Data Science, Machine Learning, CVX.
+🔍 Currently developing Computer Vision projects with OpenCV and YOLO
 
 - 📫 How to reach me **patwamuskaan@gmail.com**
 
